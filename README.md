@@ -10,6 +10,7 @@
  ![image](https://hackmd.io/_uploads/HyxcFTiwaC.png)
 
 -	Flag: KCSC{s1mplY_Str1ng_R3v3rseD}
+
  ![image](https://hackmd.io/_uploads/r1Qjaowa0.png)
 
 -	Tên đề bài gợi ý là một thông tin liên quan đến đăng nhập.
@@ -34,6 +35,8 @@
 -	Sử dụng tool stego online mình thấy ngay flag:
  
  ![image](https://hackmd.io/_uploads/HJE4CsDpR.png)
+
+ 
 ![image](https://hackmd.io/_uploads/HyVrCiDa0.png)
 
 -	Đề bài cho 1 folder là dữ liệu của người dùng admin và dựa vào gợi ý có lẽ là tìm 1 tệp vừa bị người dùng xóa:
