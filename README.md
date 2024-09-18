@@ -27,6 +27,8 @@
  ![image](https://hackmd.io/_uploads/BJrbAoDT0.png)
 
 -	Flag: KCSC{FrostBite}
+
+
  ![image](https://hackmd.io/_uploads/Hk4f0sva0.png)
 
 -	Bài này đề cho 1 ảnh png, mình nghĩ ngay đến stego:
@@ -115,6 +117,9 @@ DAT\Software\Microsoft\Windows\CurrentVersion\Run
  ![image](https://hackmd.io/_uploads/BJd8ehvT0.png)
 
 -	Flag: KCSC{~(^._.)=^._.^=(._.^)~}
+
+
+  
 ![image](https://hackmd.io/_uploads/rkXvghP6R.png)
  
 -	Tiếp tục mở file Challenge.pcapng và flow TCP stream ta thu thập được 1 file key.txt và 4 chuỗi:
