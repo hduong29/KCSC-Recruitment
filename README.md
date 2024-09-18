@@ -100,7 +100,11 @@ DAT\Software\Microsoft\Windows\CurrentVersion\Run
  ![image](https://hackmd.io/_uploads/BJfge2w6A.png)
 
 -	Thực hiện decode ta được ngay phần đầu của flag:
+
+  
  ![image](https://hackmd.io/_uploads/B1jee3DpA.png)
+
+ 
 ![image](https://hackmd.io/_uploads/HJIbg3vTC.png)
 
  
